@@ -1,0 +1,80 @@
+.navbar {
+    -webkit-backdrop-filter: blur(8px);
+    backdrop-filter: blur(8px);
+    
+    }
+
+
+#bg-home{
+
+    background-image: url(./images/mount2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: -177px;
+    height: 1000px;
+    width: 100%;
+
+}
+#insta{
+    height: 600px;
+    width: 500pxpx;
+    margin-top: -823px;
+    margin-left: 10px;
+    font-family: 'Raleway', sans-serif;
+    font-size: xx-large;
+    
+}
+#img1:hover {
+    -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
+    filter: grayscale(100%);
+  }
+#quote{
+    margin-top:-500px ;
+
+  }
+#about{
+    border-radius: 15px;
+    margin-top: 244px;
+    margin-left: 10px;
+}
+h2{
+    font-family: 'Kanit', sans-serif;
+    text-shadow: 2px 2px 5px black;
+    border-radius: 12px;
+
+}
+.card-img-top{
+    width: 450px;
+    height: 250px;
+}
+
+.instagram-media{
+    height: 700px;
+    width: 100px;
+
+}
+#box{
+    margin-top: -393px;
+    margin-left: 700px;
+    font-family: 'Righteous', cursive;
+    font-size: 32px;
+    border-radius: 20px;
+    text-shadow: 2px 2px 5px rgba(2, 2, 2, 0.288);
+    
+
+}
+#swipe{
+    width: 560px;
+    height: 315px;
+    margin-top: 300px;
+    margin-left: 800px;
+}
+#box1{
+    margin-top: -242px;
+    margin-left: 117px;
+    font-family: 'Righteous', cursive;
+    font-size: 32px;
+    border-radius: 20px;
+    text-shadow: 2px 2px 5px rgba(2, 2, 2, 0.288);
+
+}
